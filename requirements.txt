@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+chromadb
+langchain-groq
+SpeechRecognition   # for mic + wav
+pyttsx3             # for TTS (optional)
+pyaudio             # only if using microphone capture locally
